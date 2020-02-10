@@ -41,7 +41,7 @@ packages:
 #
 # extra-deps: []
 extra-deps:
-- /home/magnus/Documents/projects/photoPolysemy
+- url: https://github.com/magnus108/photoPolysemy/archive/master/latest.tar.gz
 
 # Override default flag values for local packages and extra-deps
 # flags: {}

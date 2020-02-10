@@ -3,7 +3,21 @@
 # For more information, please see the documentation at:
 #   https://docs.haskellstack.org/en/stable/lock_files
 
-packages: []
+packages:
+- completed:
+    size: 4412
+    url: https://github.com/magnus108/photoPolysemy/archive/master/latest.tar.gz
+    cabal-file:
+      size: 1680
+      sha256: 147ae1a1af76a6f43051c52c0118bd0b4d58174a5bbd5beb3eb12005759e5e6c
+    name: photoPolysemy
+    version: 0.1.0.0
+    sha256: d73247a7e444749a6c5792c8f49cd4838ee7e0b830d03b26741f290d48678b07
+    pantry-tree:
+      size: 1056
+      sha256: 38369bd6b86799ea00f6e090a09f6df9e9e617b074445d126a93c6da8d35087e
+  original:
+    url: https://github.com/magnus108/photoPolysemy/archive/master/latest.tar.gz
 snapshots:
 - completed:
     size: 524163
